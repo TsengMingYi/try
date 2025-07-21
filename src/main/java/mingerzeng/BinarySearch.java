@@ -1,4 +1,4 @@
-package mingerzeng.datastructures;
+package mingerzeng;
 
 public class BinarySearch {
 
